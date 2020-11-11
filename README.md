@@ -15,7 +15,7 @@ Steps:
 10. Enjoy
 
 About files:
-1. createWebinar.js — autotest which creates Webinar using GUI. 
+1. createWebinar.js — autotest which creates webinar using GUI. 
 2. addUser.js — autotest which adds participant to the created webinar using GUI.
 3. input.js — contains credentials for login. These credentials are used only in the "Add User" test.  
 In the meanwhile, the "Create Webinar" test uses variables for login. 
