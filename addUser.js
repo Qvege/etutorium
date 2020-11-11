@@ -51,7 +51,7 @@ const input = require('./input');
     await page.keyboard.type('quentin@ddd.com, Quentin Tarantino');
 
   //Click on the "Submit" button
-   await page.click('button[ng-click="participants.add()"]');
-   console.log('The Participants have been added');
+  await page.click('button[ng-click="participants.add()"]');
+  console.log('The Participants have been added');
   
 }) ();
